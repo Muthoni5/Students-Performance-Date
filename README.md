@@ -26,10 +26,10 @@ The objective of this project is to analyze student performance data to understa
      - Impact of Internet Acess on Academics Performance
      - Imapct of Teacher Quality on Academic Perfromance
     3.Comparative Impact Analysis
-     - Comparison on Avarage Current & Previous Scores on Motivation Level
-     - Comparison on Avarage Current & Previous Scores on School Type
-     - Comparison on Avarage Current & Previous Scores on Teacher Quality
-     - Comparison on Avarage Current & Previous Scores on Parental Involvement
+     - Comparison on Average Current & Previous Scores on Motivation Level
+     - Comparison on Average Current & Previous Scores on School Type
+     - Comparison on Average Current & Previous Scores on Teacher Quality
+     - Comparison on Average Current & Previous Scores on Parental Involvement
 
  🛠️ Tools Used
  - Power BI Desktop
@@ -70,11 +70,11 @@ This analysis compares average previous scores and current exam scores across ke
 
 - Comparison on Average Current & Previous Scores on Motivation Level - Students with high motivation show the strongest improvement from previous to current scores, indicating that motivation not only affects performance but also learning progression. ![Dashboard Overview](Images/Motivation%201.png)
   
-- Comparison on Avarage Current & Previous Scores on School Type -Differences between public and private schools reveal variations in both baseline (previous scores) and exam outcomes, suggesting that learning environments contribute to academic growth. ![Dashboard Overview](Images/School%20Type%201.png)
+- Comparison on Average Current & Previous Scores on School Type -Differences between public and private schools reveal variations in both baseline (previous scores) and exam outcomes, suggesting that learning environments contribute to academic growth. ![Dashboard Overview](Images/School%20Type%201.png)
   
-- Comparison on Avarage Current & Previous Scores on Teacher Quality- Higher teacher quality is associated with consistently stronger previous scores and higher current exam scores, reinforcing the role of effective teaching in sustained academic improvement. ![Dashboard Overview](Images/Teacher%20Quality%201.png)
+- Comparison on Average Current & Previous Scores on Teacher Quality- Higher teacher quality is associated with consistently stronger previous scores and higher current exam scores, reinforcing the role of effective teaching in sustained academic improvement. ![Dashboard Overview](Images/Teacher%20Quality%201.png)
   
-- Comparison on Avarage Current & Previous Scores on Parental Involvement - Students with active parental involvement demonstrate clearer score improvements, highlighting the long-term academic benefits of support beyond.  ![Dashboard Overview](Images/Parental%20involvement%201.png) 
+- Comparison on Average Current & Previous Scores on Parental Involvement - Students with active parental involvement demonstrate clearer score improvements, highlighting the long-term academic benefits of support beyond.  ![Dashboard Overview](Images/Parental%20involvement%201.png) 
 
 
       
