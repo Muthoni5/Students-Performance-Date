@@ -76,11 +76,19 @@ This analysis compares average previous scores and current exam scores across ke
   
 - Comparison on Average Current & Previous Scores on Parental Involvement - Students with active parental involvement demonstrate clearer score improvements, highlighting the long-term academic benefits of support beyond.  ![Dashboard Overview](Images/Parental%20involvement%201.png) 
 
+#Remarks
 
+This project applies data analysis and dashboarding to better understand the factors influencing student academic performance. By analyzing both numerical indicators and categorical attributes, the dashboards reveal meaningful relationships between student behavior, learning environment, and exam outcomes.
+
+The analysis shows that performance is shaped by a combination of factors rather than a single variable. Elements such as motivation level, teacher quality, parental involvement, and access to resources play a significant role in academic results. Comparing previous and current scores also provides insight into student progress over time, helping shift focus from isolated exam results to overall performance trends.
+
+This project highlights practical skills in Power BI dashboard design, SQL-based data analysis, and insight communication, demonstrating how data can be transformed into actionable insights to support decision-making. The approach used here reflects real-world analytical scenarios where dashboards are used to monitor performance, identify gaps, and guide strategic interventions.
+
+With further development, this analysis could be extended to include predictive modeling, trend forecasting, and deeper segmentation to support proactive academic planning and performance improvement.
       
       
       
 
        
        
-
+Rosemary Muthoni!!!!
