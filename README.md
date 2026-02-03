@@ -43,7 +43,8 @@ The objective of this project is to analyze student performance data to understa
    
 🔍 Key Insights
    1. Numerical Vs Outcome Analysis
-      - Average Exams Score on Sleeping Hours
+      - Average Exams Score on Sleeping Hours - From the Dashboard attached you can see that students with his=g motivation level have a high or better average score compared to the medium and low motivated students.Motivation%201.png
+      
 
        
        
